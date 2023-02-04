@@ -1,6 +1,6 @@
 # Kidow 개인 블로그
 
-5번째로 만든 개인 블로그입니다.
+5번째로 만든 개인 블로그입니다. [kidow.me](https://kidow.me)
 
 ### Stack
 
