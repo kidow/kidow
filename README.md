@@ -1,16 +1,26 @@
-### Hi there 👋
+# Kidow 개인 블로그
 
-<!--
-**kidow/kidow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+5번째로 만든 개인 블로그입니다.
 
-Here are some ideas to get you started:
+### Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Nextra**
+- Next.js
+- TailwindCSS
+- Typescript
+- Supabase
+- @vercel/og (Dynamic OpenGraph Image)
+- quill
+- next-i18next
+- dayjs
+- classnames
+- @heroicons/react
+
+### Service
+
+- Blog
+- Resume
+- Code Archive
+- Github Contribution
+- Giscus
+- Memo
